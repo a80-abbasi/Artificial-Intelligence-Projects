@@ -20,4 +20,9 @@
   Q3. *Autoencoders:* Implementing an autoencoder network generating an image presenting the next digit of the input MNIST digit  
 5. **Project 5: Reinforcement Learning**  
   Q1. *Mountain Car:* Learn the policy of climbing a steep hill and reaching the flag-marked goal  
-  Q2. *Breakout:* Implementing and training a Deep-Q-Network (DQN) and run it on an Atari game in _OpenAI-Gym_ environment based on [this paper](https://arxiv.org/pdf/1312.5602.pdf)
+  
+  <figure>
+  <img src="https://github.com/a80-abbasi/Artificial-Intelligence-Projects/blob/306df18cc39587df915386bc387051735f9c1ce7/Project%205/Q1/final_performance.gif" alt="Gif of performance of agent in the game" style="width:50%">
+  </figure>  
+  
+  Q2. *Breakout:* Implementing and training a Deep-Q-Network (DQN) and run it on *Breakout* Atari game in _OpenAI-Gym_ environment based on [this paper](https://arxiv.org/pdf/1312.5602.pdf)
