@@ -27,6 +27,6 @@
   
   Q2. *Breakout:* Implementing and training a Deep-Q-Network (DQN) and running it on *Breakout* Atari game in _OpenAI-Gym_ environment based on [this paper](https://arxiv.org/pdf/1312.5602.pdf)
   <figure>
-<img src="https://github.com/a80-abbasi/Artificial-Intelligence-Projects/blob/27f3d3879934c7917a90c731e96c9b68af713cf7/Project%205/Q2/final_performance.gif" alt="Gif of performance of agent in the game" style="width:30%">
+<img src="https://github.com/a80-abbasi/Artificial-Intelligence-Projects/blob/27f3d3879934c7917a90c731e96c9b68af713cf7/Project%205/Q2/final_performance.gif" alt="Gif of performance of agent in the game" style="width:70%">
   <figcaption>Model's performance after 10 hours (3 million epochs) of training.</figcaption>
   </figure>
